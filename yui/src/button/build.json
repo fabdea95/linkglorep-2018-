@@ -1,0 +1,10 @@
+{
+    "name": "moodle-atto_linkglorep-button",
+    "builds": {
+        "moodle-atto_linkglorep-button": {
+            "jsfiles": [
+                "button.js"
+            ]
+        }
+    }
+}
